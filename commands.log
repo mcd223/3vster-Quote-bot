@@ -1,0 +1,450 @@
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:on_ready has successfully been registered as an event
+INFO:discord.client:on_message has successfully been registered as an event
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+INFO:discord.gateway:sent the identify payload to create the websocket
+INFO:discord.gateway:Unhandled event PRESENCES_REPLACE
+INFO:root:plz quote
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+INFO:discord.client:on_ready has successfully been registered as an event
+INFO:discord.client:on_message has successfully been registered as an event
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+INFO:discord.gateway:sent the identify payload to create the websocket
+INFO:discord.client:on_ready has successfully been registered as an event
+INFO:discord.client:on_message has successfully been registered as an event
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+INFO:discord.gateway:sent the identify payload to create the websocket
+INFO:root:plz quote
+INFO:root:plz quote
+INFO:discord.client:on_ready has successfully been registered as an event
+INFO:discord.client:on_message has successfully been registered as an event
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+INFO:discord.gateway:sent the identify payload to create the websocket
+2019-02-26 17:19:44,522:INFO
+2019-02-26 17:19:44,522:INFO
+2019-02-26 17:19:44,522:INFO
+2019-02-26 17:19:45,376:INFO
+2019-02-26 17:19:45,379:INFO
+2019-02-26 17:20:01,096:INFO
+2019-02-26 17:20:41,837:INFO:	on_ready has successfully been registered as an event
+2019-02-26 17:20:41,837:INFO:	on_message has successfully been registered as an event
+2019-02-26 17:20:41,837:INFO:	logging in using static token
+2019-02-26 17:20:42,495:INFO:	Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 17:20:42,498:INFO:	sent the identify payload to create the websocket
+2019-02-26 17:20:59,501:INFO:on_ready has successfully been registered as an event
+2019-02-26 17:20:59,501:INFO:on_message has successfully been registered as an event
+2019-02-26 17:20:59,501:INFO:logging in using static token
+2019-02-26 17:21:00,385:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 17:21:00,388:INFO:sent the identify payload to create the websocket
+2019-02-26 17:23:29,248:INFO:on_ready has successfully been registered as an event
+2019-02-26 17:23:29,248:INFO:on_message has successfully been registered as an event
+2019-02-26 17:23:29,248:INFO:logging in using static token
+2019-02-26 17:23:30,074:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 17:23:30,077:INFO:sent the identify payload to create the websocket
+2019-02-26 17:25:15,233:INFO:on_ready has successfully been registered as an event
+2019-02-26 17:25:15,233:INFO:on_message has successfully been registered as an event
+2019-02-26 17:25:15,233:INFO:logging in using static token
+2019-02-26 17:25:16,096:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 17:25:16,098:INFO:sent the identify payload to create the websocket
+2019-02-26 17:25:18,217:INFO:Logged in as: 3vster Bot 548618259222495259
+2019-02-26 17:25:38,038:INFO:on_ready has successfully been registered as an event
+2019-02-26 17:25:38,039:INFO:on_message has successfully been registered as an event
+2019-02-26 17:25:38,039:INFO:logging in using static token
+2019-02-26 17:25:38,983:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 17:25:38,986:INFO:sent the identify payload to create the websocket
+2019-02-26 17:25:41,165:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 17:29:10,236:INFO:on_ready has successfully been registered as an event
+2019-02-26 17:29:10,236:INFO:on_message has successfully been registered as an event
+2019-02-26 17:29:10,236:INFO:logging in using static token
+2019-02-26 17:29:11,313:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 17:29:11,315:INFO:sent the identify payload to create the websocket
+2019-02-26 17:29:13,474:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 17:32:50,572:INFO:on_ready has successfully been registered as an event
+2019-02-26 17:32:50,572:INFO:on_message has successfully been registered as an event
+2019-02-26 17:32:50,572:INFO:logging in using static token
+2019-02-26 17:32:51,689:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 17:32:51,691:INFO:sent the identify payload to create the websocket
+2019-02-26 17:32:53,880:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 17:37:20,424:INFO:on_ready has successfully been registered as an event
+2019-02-26 17:37:20,424:INFO:on_message has successfully been registered as an event
+2019-02-26 17:37:20,424:INFO:logging in using static token
+2019-02-26 17:37:21,479:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 17:37:21,482:INFO:sent the identify payload to create the websocket
+2019-02-26 17:37:23,639:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 17:40:38,005:INFO:on_ready has successfully been registered as an event
+2019-02-26 17:40:38,005:INFO:on_message has successfully been registered as an event
+2019-02-26 17:40:38,005:INFO:logging in using static token
+2019-02-26 17:40:39,064:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 17:40:39,067:INFO:sent the identify payload to create the websocket
+2019-02-26 17:40:41,521:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 17:41:06,594:INFO:on_ready has successfully been registered as an event
+2019-02-26 17:41:06,594:INFO:on_message has successfully been registered as an event
+2019-02-26 17:41:06,595:INFO:logging in using static token
+2019-02-26 17:41:07,636:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 17:41:07,644:INFO:sent the identify payload to create the websocket
+2019-02-26 17:41:09,821:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 17:42:05,787:INFO:on_ready has successfully been registered as an event
+2019-02-26 17:42:05,788:INFO:on_message has successfully been registered as an event
+2019-02-26 17:42:05,788:INFO:logging in using static token
+2019-02-26 17:42:06,810:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 17:42:06,813:INFO:sent the identify payload to create the websocket
+2019-02-26 17:42:09,558:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 17:42:28,220:INFO:on_ready has successfully been registered as an event
+2019-02-26 17:42:28,221:INFO:on_message has successfully been registered as an event
+2019-02-26 17:42:28,221:INFO:logging in using static token
+2019-02-26 17:42:29,527:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 17:42:29,530:INFO:sent the identify payload to create the websocket
+2019-02-26 17:42:31,803:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 17:43:34,914:INFO:on_ready has successfully been registered as an event
+2019-02-26 17:43:34,914:INFO:on_message has successfully been registered as an event
+2019-02-26 17:43:34,914:INFO:logging in using static token
+2019-02-26 17:43:35,918:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 17:43:35,921:INFO:sent the identify payload to create the websocket
+2019-02-26 17:43:38,103:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 17:43:42,387:INFO:Douglas MacArthur#1677 used: plz quote
+2019-02-26 17:47:05,653:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 17:47:05,653:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 17:47:05,653:discord.client:INFO:logging in using static token
+2019-02-26 17:47:06,988:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 17:47:06,991:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 17:47:09,380:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 17:47:12,375:root:INFO:@ Douglas MacArthur#1677 used: plz help
+2019-02-26 17:58:13,943:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 17:58:13,943:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 17:58:13,943:discord.client:INFO:logging in using static token
+2019-02-26 17:58:14,977:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 17:58:14,979:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 17:58:17,132:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 17:59:46,732:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 17:59:46,732:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 17:59:46,732:discord.client:INFO:logging in using static token
+2019-02-26 17:59:48,006:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 17:59:48,008:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 17:59:50,206:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 18:00:28,033:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 18:00:28,033:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 18:00:28,033:discord.client:INFO:logging in using static token
+2019-02-26 18:00:29,304:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 18:00:29,307:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 18:00:31,488:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 18:02:05,535:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 18:02:05,536:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 18:02:07,576:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 18:02:07,576:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 18:02:07,576:discord.client:INFO:logging in using static token
+2019-02-26 18:02:08,872:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 18:02:08,874:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 18:02:11,057:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 18:06:04,732:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 18:06:04,733:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 18:06:06,476:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 18:06:06,476:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 18:06:06,477:discord.client:INFO:logging in using static token
+2019-02-26 18:06:07,761:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 18:06:07,763:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 18:06:10,329:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 18:06:28,042:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 18:06:28,043:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 18:06:30,312:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 18:06:30,313:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 18:06:30,313:discord.client:INFO:logging in using static token
+2019-02-26 18:06:31,636:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 18:06:31,638:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 18:06:33,811:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 18:08:11,577:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 18:08:11,577:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 18:08:47,166:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 18:08:47,166:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 18:08:47,167:discord.client:INFO:logging in using static token
+2019-02-26 18:08:48,428:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 18:08:48,430:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 18:08:50,782:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 18:09:11,207:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 18:09:11,208:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 18:09:12,456:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 18:09:12,456:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 18:09:12,456:discord.client:INFO:logging in using static token
+2019-02-26 18:09:13,820:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 18:09:13,822:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 18:09:16,309:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 18:12:30,484:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 18:12:30,485:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 18:12:31,762:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 18:12:31,762:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 18:12:31,762:discord.client:INFO:logging in using static token
+2019-02-26 18:12:33,138:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 18:12:33,141:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 18:12:35,475:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 18:48:09,408:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 18:48:09,409:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 18:48:11,300:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 18:48:11,300:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 18:48:11,300:discord.client:INFO:logging in using static token
+2019-02-26 18:48:12,153:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 18:48:12,155:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 18:48:14,283:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 18:48:23,813:root:INFO:@ Douglas MacArthur#1677 used: plz quote
+2019-02-26 18:56:23,283:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 18:56:23,284:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 18:56:23,284:discord.client:INFO:logging in using static token
+2019-02-26 18:56:24,435:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 18:56:24,437:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 18:56:26,590:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 18:56:33,319:root:INFO:@ Douglas MacArthur#1677 used: plz restart
+2019-02-26 18:56:45,739:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 18:56:45,739:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 18:56:45,739:discord.client:INFO:logging in using static token
+2019-02-26 18:56:46,690:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 18:56:46,692:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 18:56:48,840:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 18:56:59,877:root:INFO:@ Douglas MacArthur#1677 used: plz restart
+2019-02-26 18:57:00,424:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 18:57:00,424:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 18:57:00,424:discord.client:INFO:logging in using static token
+2019-02-26 18:57:01,395:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 18:57:01,396:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 18:57:03,557:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 19:00:14,541:root:INFO:@ Douglas MacArthur#1677 used: plz restart
+2019-02-26 19:00:15,265:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 19:00:15,265:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 19:00:15,265:discord.client:INFO:logging in using static token
+2019-02-26 19:00:16,431:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 19:00:16,433:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 19:00:18,647:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 19:00:27,159:root:INFO:@ Sirtow#6744 used: plz restart
+2019-02-26 19:00:27,847:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 19:00:27,847:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 19:00:27,848:discord.client:INFO:logging in using static token
+2019-02-26 19:00:29,284:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 19:00:29,286:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 19:00:31,442:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 19:01:00,482:root:INFO:@ SweggySloth#2023 used: plz restart
+2019-02-26 19:01:01,181:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 19:01:01,181:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 19:01:01,181:discord.client:INFO:logging in using static token
+2019-02-26 19:01:02,222:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 19:01:02,223:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 19:01:04,382:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 19:03:08,076:root:INFO:@ Douglas MacArthur#1677 used: plz restart
+2019-02-26 19:03:08,785:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 19:03:08,785:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 19:03:08,786:discord.client:INFO:logging in using static token
+2019-02-26 19:03:09,727:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 19:03:09,729:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 19:03:11,862:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 19:03:27,192:root:INFO:@ Douglas MacArthur#1677 used: plz advert im_toxic
+2019-02-26 19:10:23,134:root:INFO:@ Douglas MacArthur#1677 used: plz restart
+2019-02-26 19:10:56,082:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 19:10:56,082:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 19:10:56,083:discord.client:INFO:logging in using static token
+2019-02-26 19:10:57,280:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 19:10:57,280:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 19:10:59,727:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 19:11:11,488:root:INFO:@ Douglas MacArthur#1677 used: plz advert Im_Toxic
+2019-02-26 19:11:31,906:root:INFO:@ Douglas MacArthur#1677 used: plz restart
+2019-02-26 19:11:32,496:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 19:11:32,497:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 19:11:32,497:discord.client:INFO:logging in using static token
+2019-02-26 19:11:33,734:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 19:11:33,736:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 19:11:36,215:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 19:11:40,371:root:INFO:@ Douglas MacArthur#1677 used: plz advert Im_Toxic
+2019-02-26 19:12:00,391:root:INFO:@ Douglas MacArthur#1677 used: plz restart
+2019-02-26 19:12:01,512:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 19:12:01,512:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 19:12:01,512:discord.client:INFO:logging in using static token
+2019-02-26 19:12:02,926:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 19:12:02,928:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 19:12:05,109:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 19:12:07,547:root:INFO:@ Douglas MacArthur#1677 used: plz advert Im_Toxic
+2019-02-26 19:12:45,732:root:INFO:@ Douglas MacArthur#1677 used: plz restart
+2019-02-26 19:12:46,466:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 19:12:46,466:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 19:12:46,466:discord.client:INFO:logging in using static token
+2019-02-26 19:12:47,715:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 19:12:47,717:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 19:12:49,875:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 19:12:50,703:root:INFO:@ Douglas MacArthur#1677 used: plz advert Im_Toxic
+2019-02-26 19:13:30,490:root:INFO:@ Douglas MacArthur#1677 used: plz restart
+2019-02-26 19:13:31,285:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 19:13:31,285:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 19:13:31,285:discord.client:INFO:logging in using static token
+2019-02-26 19:13:32,614:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 19:13:32,616:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 19:13:34,808:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 19:13:36,401:root:INFO:@ Douglas MacArthur#1677 used: plz advert Im_Toxic
+2019-02-26 19:13:55,131:root:INFO:@ Douglas MacArthur#1677 used: plz restart
+2019-02-26 19:13:55,654:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 19:13:55,654:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 19:13:55,654:discord.client:INFO:logging in using static token
+2019-02-26 19:13:56,910:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 19:13:56,911:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 19:13:57,594:root:INFO:@ Douglas MacArthur#1677 used: plz advert Im_Toxic
+2019-02-26 19:13:59,097:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 19:16:25,218:root:INFO:@ Douglas MacArthur#1677 used: plz advert 3vster1
+2019-02-26 19:18:20,038:websockets.protocol:INFO:Failing the WebSocket connection: 1006 
+2019-02-26 19:18:20,039:discord.gateway:INFO:Websocket closed with 1006 (), attempting a reconnect.
+2019-02-26 19:18:20,039:discord.client:INFO:Got ResumeWebSocket
+2019-02-26 19:18:21,079:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 19:18:21,080:discord.gateway:INFO:sent the resume payload to create the websocket
+2019-02-26 19:20:30,791:root:INFO:@ Douglas MacArthur#1677 used: plz restart
+2019-02-26 19:20:31,540:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 19:20:31,540:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 19:20:31,540:discord.client:INFO:logging in using static token
+2019-02-26 19:20:32,727:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 19:20:32,729:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 19:20:34,885:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 19:20:38,853:root:INFO:@ Douglas MacArthur#1677 used: plz id
+2019-02-26 19:21:56,363:root:INFO:@ Douglas MacArthur#1677 used: plz restart
+2019-02-26 19:21:57,144:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 19:21:57,144:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 19:21:57,144:discord.client:INFO:logging in using static token
+2019-02-26 19:21:58,481:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 19:21:58,483:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 19:22:00,696:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 19:22:04,125:root:INFO:@ Douglas MacArthur#1677 used: plz quote
+2019-02-26 19:22:47,621:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 19:22:47,621:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 19:22:47,622:discord.client:INFO:logging in using static token
+2019-02-26 19:22:48,868:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 19:22:48,871:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 19:22:51,022:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 19:22:55,255:root:INFO:@ Douglas MacArthur#1677 used: plz restart
+2019-02-26 19:22:55,851:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 19:22:55,851:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 19:22:55,851:discord.client:INFO:logging in using static token
+2019-02-26 19:22:57,220:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 19:22:57,224:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 19:22:59,439:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 19:42:17,433:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 19:42:17,434:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 19:42:17,434:discord.client:INFO:logging in using static token
+2019-02-26 19:42:18,578:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 19:42:18,580:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 19:42:20,764:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 19:45:57,230:root:INFO:@ Douglas MacArthur#1677 used: plz restart
+2019-02-26 19:45:57,985:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 19:45:57,985:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 19:45:57,985:discord.client:INFO:logging in using static token
+2019-02-26 19:45:59,373:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 19:45:59,374:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 19:46:01,527:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 19:46:12,387:root:INFO:@ Douglas MacArthur#1677 used: plz help
+2019-02-26 19:46:28,957:root:INFO:@ Douglas MacArthur#1677 used: plz restart
+2019-02-26 19:46:29,552:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 19:46:29,552:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 19:46:29,552:discord.client:INFO:logging in using static token
+2019-02-26 19:46:30,868:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 19:46:30,871:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 19:46:33,018:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 19:46:34,407:root:INFO:@ Douglas MacArthur#1677 used: plz help
+2019-02-26 19:46:46,015:root:INFO:@ Douglas MacArthur#1677 used: plz restart
+2019-02-26 19:46:46,575:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 19:46:46,575:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 19:46:46,575:discord.client:INFO:logging in using static token
+2019-02-26 19:46:47,936:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 19:46:47,938:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 19:46:50,084:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 19:46:51,456:root:INFO:@ Douglas MacArthur#1677 used: plz help
+2019-02-26 19:51:06,570:root:INFO:@ fighterpizza#7482 used: plz help
+2019-02-26 19:53:28,269:root:INFO:@ Douglas MacArthur#1677 used: plz restart
+2019-02-26 19:53:29,040:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 19:53:29,041:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 19:53:29,041:discord.client:INFO:logging in using static token
+2019-02-26 19:53:30,233:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 19:53:30,234:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 19:53:32,384:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 19:53:37,190:root:INFO:@ Douglas MacArthur#1677 used: plz quote
+2019-02-26 19:53:38,887:root:INFO:@ Douglas MacArthur#1677 used: plz quote
+2019-02-26 19:53:40,518:root:INFO:@ Douglas MacArthur#1677 used: plz quote
+2019-02-26 19:53:41,651:root:INFO:@ Douglas MacArthur#1677 used: plz quote
+2019-02-26 19:53:42,873:root:INFO:@ Douglas MacArthur#1677 used: plz quote
+2019-02-26 19:53:44,480:root:INFO:@ Douglas MacArthur#1677 used: plz quote
+2019-02-26 19:53:45,836:root:INFO:@ Douglas MacArthur#1677 used: plz quote
+2019-02-26 19:53:47,439:root:INFO:@ Douglas MacArthur#1677 used: plz quote
+2019-02-26 19:53:48,665:root:INFO:@ Douglas MacArthur#1677 used: plz quote
+2019-02-26 19:53:59,210:root:INFO:@ Douglas MacArthur#1677 used: plz quote
+2019-02-26 19:54:00,529:root:INFO:@ Douglas MacArthur#1677 used: plz quote
+2019-02-26 19:54:01,907:root:INFO:@ Douglas MacArthur#1677 used: plz quote
+2019-02-26 19:54:03,330:root:INFO:@ Douglas MacArthur#1677 used: plz quote
+2019-02-26 19:55:08,441:root:INFO:@ SweggySloth#2023 used: plz advert
+2019-02-26 19:55:13,908:root:INFO:@ SweggySloth#2023 used: plz advert
+2019-02-26 19:55:16,890:root:INFO:@ SweggySloth#2023 used: plz advert
+2019-02-26 19:55:20,609:root:INFO:@ SweggySloth#2023 used: plz advert
+2019-02-26 19:55:22,187:root:INFO:@ SweggySloth#2023 used: plz advert
+2019-02-26 19:55:32,128:root:INFO:@ Douglas MacArthur#1677 used: plz advert austin_is_autistic
+2019-02-26 19:55:39,164:root:INFO:@ SweggySloth#2023 used: plz advert 3vster
+2019-02-26 19:55:51,047:root:INFO:@ SweggySloth#2023 used: plz advert hi @everyone
+2019-02-26 19:56:00,307:root:INFO:@ Monkey with PTSD#3839 used: plz advert y1ny4ng
+2019-02-26 19:56:07,913:root:INFO:@ SweggySloth#2023 used: plz advert Cor
+2019-02-26 19:56:31,009:root:INFO:@ Douglas MacArthur#1677 used: plz restart
+2019-02-26 19:56:31,734:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 19:56:31,734:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 19:56:31,735:discord.client:INFO:logging in using static token
+2019-02-26 19:56:33,011:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 19:56:33,013:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 19:56:35,231:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 19:56:58,241:root:INFO:@ Douglas MacArthur#1677 used: plz advert it_only_works_for_me
+2019-02-26 19:57:53,025:root:INFO:@ Douglas MacArthur#1677 used: plz restart
+2019-02-26 19:57:53,860:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 19:57:53,860:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 19:57:53,860:discord.client:INFO:logging in using static token
+2019-02-26 19:57:55,251:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 19:57:55,254:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 19:57:57,418:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 19:57:58,216:root:INFO:@ Douglas MacArthur#1677 used: plz quote
+2019-02-26 19:59:58,961:root:INFO:@ SweggySloth#2023 used: plz advert shortduostream
+2019-02-26 20:03:50,363:root:INFO:@ Douglas MacArthur#1677 used: plz id
+2019-02-26 20:04:02,216:root:INFO:@ SweggySloth#2023 used: plz id
+2019-02-26 20:04:04,107:root:INFO:@ SweggySloth#2023 used: plz id
+2019-02-26 20:04:26,769:root:INFO:@ SweggySloth#2023 used: plz about
+2019-02-26 20:13:05,603:root:INFO:@ Douglas MacArthur#1677 used: plz restart
+2019-02-26 20:13:06,461:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 20:13:06,461:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 20:13:06,461:discord.client:INFO:logging in using static token
+2019-02-26 20:13:07,673:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 20:13:07,674:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 20:13:09,869:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 20:13:19,873:root:INFO:@ Douglas MacArthur#1677 used: plz list members
+2019-02-26 20:13:48,354:root:INFO:@ SweggySloth#2023 used: plz quote
+2019-02-26 20:16:15,300:root:INFO:@ Douglas MacArthur#1677 used: plz restart
+2019-02-26 20:16:16,096:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 20:16:16,096:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 20:16:16,096:discord.client:INFO:logging in using static token
+2019-02-26 20:16:17,435:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 20:16:17,437:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 20:16:19,602:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 20:16:22,897:root:INFO:@ SweggySloth#2023 used: plz help
+2019-02-26 20:16:55,518:root:INFO:@ Douglas MacArthur#1677 used: plz restart
+2019-02-26 20:16:56,407:discord.client:INFO:on_ready has successfully been registered as an event
+2019-02-26 20:16:56,407:discord.client:INFO:on_message has successfully been registered as an event
+2019-02-26 20:16:56,407:discord.client:INFO:logging in using static token
+2019-02-26 20:16:57,761:discord.gateway:INFO:Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6
+2019-02-26 20:16:57,764:discord.gateway:INFO:sent the identify payload to create the websocket
+2019-02-26 20:16:59,927:root:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 20:17:10,646:discord.http:INFO:A rate limit bucket has been exhausted (bucket: POST:547187120746266628:None:/channels/{channel_id}/messages, retry: 4.0).
+2019-02-26 20:17:16,152:discord.http:INFO:A rate limit bucket has been exhausted (bucket: POST:547187120746266628:None:/channels/{channel_id}/messages, retry: 5.0).
+2019-02-26 20:17:22,652:discord.http:INFO:A rate limit bucket has been exhausted (bucket: POST:547187120746266628:None:/channels/{channel_id}/messages, retry: 4.0).
+2019-02-26 20:17:28,115:discord.http:INFO:A rate limit bucket has been exhausted (bucket: POST:547187120746266628:None:/channels/{channel_id}/messages, retry: 5.0).
+2019-02-26 20:17:34,843:discord.http:INFO:A rate limit bucket has been exhausted (bucket: POST:547187120746266628:None:/channels/{channel_id}/messages, retry: 4.0).
+2019-02-26 20:17:34,843:root:INFO:@ Douglas MacArthur#1677 used: plz list members
+2019-02-26 20:18:14,504:root:INFO:@ Kachow#5150 used: plz quote
+2019-02-26 20:25:02,188:root:INFO:@ Douglas MacArthur#1677 used: plz restart
+2019-02-26 20:28:35,939:Telemetry:INFO:@ Douglas MacArthur#1677 used: plz quote
+2019-02-26 20:30:42,794:Telemetry:INFO:@ Douglas MacArthur#1677 used: plz restart
+2019-02-26 20:31:06,771:Telemetry:INFO:@ Douglas MacArthur#1677 used: plz quote
+2019-02-26 20:32:34,376:Telemetry:INFO:@ Douglas MacArthur#1677 used: plz restart
+2019-02-26 20:33:34,135:Telemetry:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 20:35:44,048:Telemetry:INFO:@ Douglas MacArthur#1677 used: plz quote
+2019-02-26 20:36:45,369:Telemetry:INFO:@ Douglas MacArthur#1677 used: plz restart
+2019-02-26 20:36:49,721:Telemetry:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 20:37:32,468:Telemetry:INFO:@ Douglas MacArthur#1677 used: plz restart
+2019-02-26 20:37:37,121:Telemetry:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 20:38:06,288:Telemetry:INFO:@ Douglas MacArthur#1677 used: plz list
+2019-02-26 20:38:28,137:Telemetry:INFO:@ Douglas MacArthur#1677 used: plz restart
+2019-02-26 20:38:32,588:Telemetry:INFO:Logged in as: 3vster Bot ID: 548618259222495259
+2019-02-26 20:39:02,300:Telemetry:INFO:@ Douglas MacArthur#1677 used: plz list
