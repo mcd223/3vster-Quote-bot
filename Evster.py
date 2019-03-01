@@ -5,6 +5,7 @@ import pickle
 import os
 import sys
 import logging
+import re
 
 formatter = logging.Formatter('%(asctime)s:%(name)s:%(levelname)s:%(message)s')
 
@@ -26,6 +27,9 @@ logger.propagate = False
 loggerTwo = setup_logger('Telemetry', 'commands.log')
 loggerTwo.setLevel(logging.INFO)
 loggerTwo.propagate = False
+loggerID = setup_logger('ID', 'ID.log')
+loggerID.setLevel(logging.INFO)
+loggerID.propagate = False
 
 client = discord.Client()
 
@@ -45,13 +49,17 @@ async def on_message(message):
     def logMembers():
         x = message.server.members
         for members in x:
-            logger.info(members)
+            logger.info("%s ID: %s" %(members, members.id))
     def telemetry():
         loggerTwo.info('@ %s used: %s' %(message.author, message.content))
         logMembers()
+    def logID():
+        open('ID.log', 'w').close()
+        x = message.server.members
+        for members in x:
+            loggerID.info(members.id)
     if message.content.startswith('plz quote'):
-        messages = ["Austin ping me when your on", "Time to bandwagon Atlanta Reign", "But apex is  a bad game", "twitch.tv/3vster", "It’s Corey’s server, nty", "SINCE WHEN HAS DISCORD HAD A GIF BUTTON???",  "I made fun of someone with twitch.tv", "I hate servers *joins server 30 seconds later*", "Will why are you being so toxic? *5 minutes later* the freak are you doing you peice of shoot", "97 percent of teenagers would cry if they saw Jake Paul on a tower about to jump. If you are one of the 3 percent sitting there with popcorn, Screaming 'DO A BACKFLIP' then copy and paste this to all your discord servers.", "If you’d even stop to think for half a second it’s pretty obvious", "Maybe I have you blocked because you keep trying to ping me?", " Siberian https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png", "I have some more Evan quotes", "Here they are", "I PLAY WITH THEM INSTEAD OF YOU BECAUSE I WIN WITH THEM", "I’ve had him blocked since he ruined my 2s rank", "luck", "I have it too, stop pinging me Before I block you too", "@Squirtz YOUCAN GET INFINITE KEYS EVERY 10 LEVELS IS A KEY", "Trying to Carry -__('-')__-", "THE NEW HERO IN OVERWATCH SOUNDS LIKE FITZ", "One, I don’t make money from ads, two, I hit affiliate get rekt"]
-        await client.send_message(message.channel, random.choice(messages))
+        await client.send_message(message.channel, random.choice(open('quotes.txt').readlines()))
         telemetry()
     if message.content.startswith('plz help'):
         await client.send_message(message.channel, '`plz quote`: Evan Quote \n `plz about`: about command \n `plz advert`: Adverts for Twitch.tv \n `plz id`: Tells your user id')
@@ -64,6 +72,8 @@ async def on_message(message):
         telemetry()
     if message.content.startswith('plz restart') and message.author.id == '317026781708288024':
         telemetry()
+        print("Restarting Bot...")
+        print('------')
         await client.send_message(message.channel, 'Restarting Bot...')
         restart_program()
     if message.content.startswith('plz id'):
@@ -72,15 +82,33 @@ async def on_message(message):
     #if message.content.startswith('plz pic'):
     #    await client.send_message(message.channel, '')
     #    telemetry()
-    #if message.content.startswith('plz @'):
-    #    games = ["Apex", "Rocket League", "Overwatch"]
-    #    telemetry()
+    if message.content.startswith('plz mention'):
+        logID()
+        games = ["Apex", "Rocket League", "Overwatch"]
+        id = random.choice(open('ID.log').readlines())[32:].rstrip()
+        msg = '<@!%s> do you want to play %s' %(id ,random.choice(games))
+        await client.send_message(message.channel, msg)
+        telemetry()
     if message.content.startswith('plz list'):
         x = message.server.members
         for members in x:
-            await client.send_message(message.channel, "@%s" %(members))
+            await client.send_message(message.channel, members)
         telemetry()
-
+    if message.content.startswith('ping'):
+        for user in message.mentions:
+            msg = 'PONG {}'.format(user.mention)
+            await client.send_message(message.channel, msg)
+    if message.content.startswith('mention everyone') and message.author.id == '317026781708288024':
+        x = message.server.members
+        for members in x:
+            msg = 'PONG {}'.format(members.mention)
+            await client.send_message(message.channel, msg)
+async def on_member_join(member):
+    server = member.server
+    games = ["Apex", "Rocket League", "Overwatch"]
+    fmt = '{0.mention} do you want to play %s' %(random.choice(games))
+    await client.send_message(server, fmt.format(member, server))
+    
 def restart_program():
     """Restarts the current program.
     Note: this function does not return. Any cleanup action (like
